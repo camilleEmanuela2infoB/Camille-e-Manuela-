@@ -1,0 +1,29 @@
+button{
+	background-color: lightblue;
+	color: black;
+}
+
+button:hover{
+	background-color: purple;
+    color: pink;
+    transition: 1s;
+    font-size: 100%
+}
+
+body{
+  background-color: #CECEF6;
+  border: 10px ridge purple;
+  padding: 1em;
+  margin: 2em;
+}
+
+h1{
+	color: purple;
+ 	font-family: sans-serif;
+ 	font-size: 35px; 
+  font-variant: small-caps;
+}
+
+h2{
+	background-color: #BCA9F5;
+}

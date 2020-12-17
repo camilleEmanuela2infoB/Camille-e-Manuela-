@@ -1,0 +1,29 @@
+button{
+	background-color: orange;
+	color: black;
+}
+
+button:hover{
+	background-color: salmon;
+    color: black;
+    transition: 1s;
+    font-size: 100%
+}
+
+body{
+  background-color: #FFDEAD;
+  border: 10px ridge salmon;
+  padding: 1em;
+  margin: 2em;
+}
+
+h1{
+	color: #DF3A01;
+ 	font-family: sans-serif;
+ 	font-size: 35px; 
+    font-variant: small-caps;
+}
+
+h2{
+	background-color: #FFA07A;
+}
