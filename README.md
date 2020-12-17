@@ -1,2 +1,1 @@
-# Camille-e-Manuela do 2º info B
-página 1
+# Camille e Manuela do 2º info B
